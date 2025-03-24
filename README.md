@@ -1,5 +1,5 @@
-# COMP703-AI
-Project in Sequential Modelling
+# COMP703-AI Machine Translation
+Project in Machine Translation using Sequential Modelling
 # Authors
 Linda Sekhoasha\
 Wandile Ngobese\
