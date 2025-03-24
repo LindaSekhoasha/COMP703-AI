@@ -22,3 +22,11 @@ datasets
 ```batch
 pip install -U datasets
 ```
+
+torchtext
+```batch
+pip install torchtext
+```
+
+# References
+[Sequence to Sequence Learning with Neural Networks](https://github.com/bentrevett/pytorch-seq2seq/blob/main/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb)
