@@ -22,3 +22,8 @@ datasets
 ```batch
 pip install -U datasets
 ```
+
+torchtext
+```batch
+pip install torchtext
+```
